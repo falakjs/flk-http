@@ -3,7 +3,7 @@
     "description": "Http ajax requests parser.",
     "version": "0.1.41",
     "dependencies": {
-        "flk-jquery": "0.1.1"
+        "flk-jquery": "^0.1.2"
     },
     "license": "ISC",
     "author": {
