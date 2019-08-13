@@ -1,7 +1,7 @@
 {
     "name": "flk-http",
     "description": "Http ajax requests parser.",
-    "version": "0.1.41",
+    "version": "0.1.42",
     "dependencies": {
         "flk-jquery": "^0.1.2"
     },
